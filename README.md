@@ -4,4 +4,4 @@
 我正在寻找博士或行业的工作机会，有意请联系我：tzp16@tsinghua.org.cn，谢谢!
 
 This is the code for quantitative SPECT writed by myself, using OSEM algorithm to reconstruct SPECT image, including scattering, attenuation and collimator-detector response correction, to demonstrate my project experience and ability.
-I am looking for PhD or industry job oppotunity, do not hesitate to contact me with my emial: tzp16@tsinghua.org.cn, thank you!
+I am looking for PhD or industry job opportunity, do not hesitate to contact me with my emial: tzp16@tsinghua.org.cn, thank you!
